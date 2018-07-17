@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 
 import { AuthService } from './user/auth.service';
 
+
 @Component({
     selector: 'pm-app',
     templateUrl: './app/app.component.html'
